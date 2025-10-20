@@ -1,0 +1,10 @@
+matplotlib==3.8.2
+nltk==3.9.1
+numpy==2.3.4
+pandas==2.3.3
+Requests==2.32.5
+rouge_score==0.1.2
+tokenizers==0.22.1
+torch==2.2.0+cu118
+torch==2.8.0+cu128
+tqdm==4.67.1
