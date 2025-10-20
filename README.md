@@ -24,7 +24,7 @@ Furthermore, the implementation includes:
 Model Architecture is illustrated below:
 
 <center>
-    <img src = "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*s5XcjuosS8ohfsW5xFT3sQ.png" width = 600, height= 600>
+    <img src = "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*s5XcjuosS8ohfsW5xFT3sQ.png" width = 400>
 <p style = "font-size: 16px;
             font-family: 'Georgia', serif;
             text-align: center;
