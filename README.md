@@ -21,6 +21,10 @@ Furthermore, the implementation includes:
 
 ## 🏗️ Model Architecture
 
+Model Architecture is illustrated below:
+
+![Model Architecture](./imgs/Transformer.png)
+
 NanoSocrates is based on a standard Encoder-Decoder Transformer architecture, with several improvements and configuration options.
 
   - **Encoder**: Its function is to create a rich contextual representation of the input sequence, whether it is text or serialized RDF triples.
