@@ -131,7 +131,7 @@ The model's performance is evaluated separately for each of the four tasks at th
   - **RDF Completion 1**: Accuracy in predicting the masked tokens.
   - **RDF Completion 2**: Precision, Recall, and F1-score at the triple level.
 
-The results are printed to the console and logged to TensorBoard. At the end of the training, the following loss plots are generated:
+The results are printed to the console and logged to TensorBoard.
 
 ## Acknowledgements
 
